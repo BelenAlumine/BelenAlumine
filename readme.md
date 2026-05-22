@@ -1,6 +1,5 @@
 <br />
 <table border="0" width="100%" cellpadding="0" cellspacing="0">
-    <tr>
         <td valign="top">
             <h1 align="left" style="font-family: Google Sans; color: #11f2328; margin-bottom: 5px;">
                 <code>&lt;Belén Aluminé/&gt;</code>
@@ -9,13 +8,11 @@
                 Desarrolladora Backend &nbsp;|&nbsp; Licenciada en Programación en proceso
             </h3>
         </td>
-    </tr>
 </table>
 
 <br />
 
 <table border="0" width="100%" cellpadding="0" cellspacing="0">
-    <tr>
         <td valign="top">
             <h3 style="font-family: monospace; color: #6e7781; margin-bottom: 10px;">
                 <code>&lt;aboutMe&gt;</code>
@@ -30,5 +27,4 @@
                 <code>&lt;/aboutMe&gt;</code>
             </h3>
         </td>
-    </tr>
 </table>
