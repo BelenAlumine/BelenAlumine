@@ -1,9 +1,3 @@
-<table border="0" width="100%" cellpadding="0" cellspacing="0">
-    <tr>
-        <td bgcolor="#413564" height="4"></td>
-    </tr>
-</table>
-
 <br />
 <table border="0" width="100%" cellpadding="0" cellspacing="0">
     <tr>
@@ -26,7 +20,7 @@
             <h4 style="font-family: monospace; color: #6e7781; margin-bottom: 10px;">
                 &lt;aboutMe/&gt;
             </h4>
-            <p>
+            <p align="center">
                 Desarrolladora backend Ssr con JavaScript con más de 2 años de experiencia en el desarrollo de ChatBots para el sector bancario.
                 Me estoy formando cómo Licenciada en Programación Informática en la Universidad Nacional de Quilmes, y profundizando de forma independiente en mis conocimientos de Desarrollo Frontend con React y Backend con Java.
             </p>
