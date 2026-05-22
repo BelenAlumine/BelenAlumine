@@ -20,10 +20,12 @@
             <h4 style="font-family: monospace; color: #6e7781; margin-bottom: 10px;">
                 &lt;aboutMe/&gt;
             </h4>
-            <p align="center">
-                Desarrolladora backend Ssr con JavaScript con más de 2 años de experiencia en el desarrollo de ChatBots para el sector bancario.
-                Me estoy formando cómo Licenciada en Programación Informática en la Universidad Nacional de Quilmes, y profundizando de forma independiente en mis conocimientos de Desarrollo Frontend con React y Backend con Java.
-            </p>
+                <div style="padding-left: 24px; margin-bottom: 8px">
+                    <p style="font-size: 16px; line-height: 1.6; color: #24292f; margin: 0; text-align: justify; font-family: sans-serif;">
+                        Desarrolladora backend Ssr con JavaScript con más de 2 años de experiencia en el desarrollo de ChatBots para el sector bancario.
+                        Me estoy formando cómo Licenciada en Programación Informática en la Universidad Nacional de Quilmes, y profundizando de forma independiente en mis conocimientos de Desarrollo Frontend con React y Backend con Java.
+                    </p>
+                </div>
             <h4 style="font-family: monospace; color: #6e7781; margin-bottom: 10px;">
                 &lt;/aboutMe/&gt;
             </h4>
